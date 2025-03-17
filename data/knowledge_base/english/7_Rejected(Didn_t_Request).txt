@@ -1,0 +1,24 @@
+{
+    "Call ID": "7",
+    "Issue Summary": "Customer denies ordering the Magic Foam cleaner and refuses to confirm the order.",
+    "Customer's Request": "Customer confirms he did not order the product and refuses to inquire about it or confirm the order.",
+    "Agent's Response": "The agent introduced the product, tried to explain its benefits, and offered to call back after the customer checks with family, but the customer refused.",
+    "Outcome": "Rejection",
+    "Outcome Reason": "Customer denies ordering the product and confirms he is not interested in it.",
+    "Upsell Information": "Not Applicable",
+    "Additional Metadata": {
+        "Call Duration": "57 seconds",
+        "Overall Sentiment": "Negative",
+        "Keywords": [
+            "Magic Foam cleaner",
+            "I didn't order",
+            "wrong number"
+        ],
+        "Contextual Factors": "Unknown",
+        "Correlation Patterns": "No correlation patterns identified."
+    },
+    "Agent Guidance": {
+        "Actions to Do": "Verify phone number and name before presenting the product, check order history to avoid calling customers who did not place orders.",
+        "Actions to Avoid": "Pressuring the customer to confirm an order they deny placing, insisting on explaining the product after the customer's explicit refusal."
+    }
+}

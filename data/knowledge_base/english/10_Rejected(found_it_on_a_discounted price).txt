@@ -1,0 +1,26 @@
+{
+    "Call ID": "10",
+    "Issue Summary": "Customer cancelled the order due to the high price of the product compared to other websites.",
+    "Customer's Request": "Cancel the order due to the high price.",
+    "Agent's Response": "Offered a discount on the product and attempted to upsell other products.",
+    "Outcome": "Rejected",
+    "Outcome Reason": "Customer rejected the offer and confirmed that the price is still high compared to other websites.",
+    "Upsell Information": "The agent attempted to upsell other products, but the customer did not express interest at this time.",
+    "Additional Metadata": {
+        "Call Duration": "58 seconds",
+        "Overall Sentiment": "Slightly negative",
+        "Keywords": [
+            "order",
+            "expensive",
+            "price",
+            "discount",
+            "Kashkh"
+        ],
+        "Contextual Factors": "Price comparison with other websites.",
+        "Correlation Patterns": "Price sensitivity affects confirmation rates."
+    },
+    "Agent Guidance": {
+        "Actions to Do": "Immediately offer a discount when the customer mentions price as a reason for cancellation.",
+        "Actions to Avoid": "Arguing about product quality or price when the customer clearly objects to the price."
+    }
+}

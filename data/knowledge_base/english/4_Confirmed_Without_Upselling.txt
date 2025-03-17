@@ -1,0 +1,28 @@
+{
+    "Call ID": "4",
+    "Issue Summary": "Confirmation of teeth whitening gel order and inquiry about product effectiveness and payment methods.",
+    "Customer's Request": "Inquiry about the effectiveness of the teeth whitening gel and whether it is a real and effective product as in the advertisement, and inquiry about available payment options.",
+    "Agent's Response": "Order confirmation, explaining the effectiveness of the product and that it is natural and extracted from natural materials, confirming the warranty and after-sales service, offering Tamara installment payment method and offering an additional product (cleaning brush) at a reduced price.",
+    "Outcome": "Confirmation",
+    "Outcome Reason": "The customer agreed to the original order (teeth whitening gel) with cash on delivery payment.",
+    "Upsell Information": "Multi-use cleaning brush offered at 19 riyals instead of 90 riyals, but the customer declined the offer.",
+    "Additional Metadata": {
+        "Call Duration": "4 minutes",
+        "Overall Sentiment": "Positive / Neutral",
+        "Keywords": [
+            "order",
+            "product",
+            "teeth",
+            "whitening",
+            "payment",
+            "warranty",
+            "Ramadan"
+        ],
+        "Contextual Factors": "Special offer for the month of Ramadan.",
+        "Correlation Patterns": "Currently unknown"
+    },
+    "Agent Guidance": {
+        "Actions to Do": "Confirm the order quickly, reassure the customer about the quality and effectiveness of the product, clearly explain the warranty and after-sales services, provide flexible payment options.",
+        "Actions to Avoid": "Pressuring the customer to accept the additional product if they have clearly refused, giving inaccurate information about the product."
+    }
+}

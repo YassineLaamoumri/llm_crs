@@ -1,0 +1,31 @@
+{
+    "Call ID": "6",
+    "Issue Summary": "Customer wants to cancel the order because he is traveling abroad and is not in the delivery area.",
+    "Customer's Request": "Customer requested to cancel the current order and inquired about the possibility of reordering upon his return from travel.",
+    "Agent's Response": "The agent offered to postpone the order until the customer's return from travel, but the customer insisted on cancellation.",
+    "Outcome": "Order cancelled.",
+    "Outcome Reason": "Customer is traveling abroad and no one is available to receive the order at the delivery address.",
+    "Upsell Information": "Not Applicable",
+    "Additional Metadata": {
+        "Call Duration": "24 seconds",
+        "Overall Sentiment": "Neutral",
+        "Keywords": [
+            "cancel order",
+            "Syria",
+            "travel",
+            "postpone order"
+        ],
+        "Contextual Factors": "Customer is abroad, delivery address issue.",
+        "Correlation Patterns": "Not available in a single call"
+    },
+    "Agent Guidance": {
+        "Actions to Do": [
+            "Offer the option to postpone orders for traveling customers.",
+            "Handle cancellation requests politely and professionally."
+        ],
+        "Actions to Avoid": [
+            "Pressuring the customer not to cancel.",
+            "Ignoring the customer's reason for cancellation."
+        ]
+    }
+}

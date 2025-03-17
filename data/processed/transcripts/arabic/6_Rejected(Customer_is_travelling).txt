@@ -1,0 +1,110 @@
+[
+    {
+        "speaker": "Agent",
+        "utterance": "السلام عليكم"
+    },
+    {
+        "speaker": "Customer",
+        "utterance": "وعليكم السلام ورحمة الله"
+    },
+    {
+        "speaker": "Agent",
+        "utterance": "حياك الله يا أختي، معكِ ردينا من قسم تأكيد الطلبات، هل أقدر أساعدك؟"
+    },
+    {
+        "speaker": "Customer",
+        "utterance": "لا خلاص أختي كنسل، أنا كنسلت، أنا ما أنا موجود في منطقة توصيل الطلب."
+    },
+    {
+        "speaker": "Agent",
+        "utterance": "معلش يا أخي ممكن توضح؟"
+    },
+    {
+        "speaker": "Customer",
+        "utterance": "أنا ما أنا موجود في منطقة توصيل الطلب."
+    },
+    {
+        "speaker": "Agent",
+        "utterance": "ما أنت موجود؟"
+    },
+    {
+        "speaker": "Customer",
+        "utterance": "ما موجود كنسل الطلب."
+    },
+    {
+        "speaker": "Agent",
+        "utterance": "طيب فيني أشحن لحضرتك الطلبية يا أخي على عنوان حضرتك موجود بيه حالياً؟"
+    },
+    {
+        "speaker": "Customer",
+        "utterance": "ايش؟"
+    },
+    {
+        "speaker": "Agent",
+        "utterance": "فيني أشحن لحضرتك الطلبية على مكان حضرتك متواجد بيه الآن؟"
+    },
+    {
+        "speaker": "Customer",
+        "utterance": "لا لا لا أنا موجود أنا خارج طالع سوريا، بمشي سوريا."
+    },
+    {
+        "speaker": "Agent",
+        "utterance": "طلعت سوريا؟"
+    },
+    {
+        "speaker": "Customer",
+        "utterance": "أيوه."
+    },
+    {
+        "speaker": "Agent",
+        "utterance": "تحت أمرك، بتحب أجلها لك لحين ما تعاود من السفر؟"
+    },
+    {
+        "speaker": "Customer",
+        "utterance": "إن شاء الله خير."
+    },
+    {
+        "speaker": "Agent",
+        "utterance": "حضرتك بتعاود على إمتى يا أخي؟"
+    },
+    {
+        "speaker": "Customer",
+        "utterance": "يا أختي والله مو أكيد بس ولكن أنا خارج كنسل أنا، اطلع ارجع بطلبها مرة ثانية."
+    },
+    {
+        "speaker": "Agent",
+        "utterance": "تحت أمرك، حضرتك طالب طلب من متجر فهمي ستور، حضرتك طالب باسم الأخ عمار محمد الزين، طلبية اا شنيور عملي 25 مثقاب هل 209 ريال مضبوط؟"
+    },
+    {
+        "speaker": "Customer",
+        "utterance": "أيوه."
+    },
+    {
+        "speaker": "Agent",
+        "utterance": "تمام يا أخي، لو حاضر فيني أوضح لك ممكن أجلها لك لحين ما تعاود من السفر، لو حضرتك تعاود على إمتى؟"
+    },
+    {
+        "speaker": "Customer",
+        "utterance": "ما أدري متى بشهر بشهرين ب 15 يوم والله ما أدري يا أختي."
+    },
+    {
+        "speaker": "Agent",
+        "utterance": "ما في حدا بيستلم الطلب من أهلك يا أخي؟"
+    },
+    {
+        "speaker": "Customer",
+        "utterance": "لا لا ما في، أنا إذا رجعت بكلمكم."
+    },
+    {
+        "speaker": "Agent",
+        "utterance": "طيب يا أخي تحت أمرك، بعتذر منك على الإزعاج."
+    },
+    {
+        "speaker": "Customer",
+        "utterance": "مع السلامة."
+    },
+    {
+        "speaker": "Agent",
+        "utterance": "مع السلامة."
+    }
+]

@@ -1,0 +1,29 @@
+{
+    "Call ID": "1",
+    "Issue Summary": "Kohl order confirmation and address update.",
+    "Customer's Request": "Confirm the order, know the delivery date, and the address is Souq Al Bangala next to the Grand Mosque in Dahran Al Janoub.",
+    "Agent's Response": "Confirmed order details (original Athmad kohl and copper kohl container) and price. Attempted to update the address and confirm Souq Al Bangala area. Offered an additional product (electric shaver) with a Ramadan discount.",
+    "Outcome": "Confirmation",
+    "Outcome Reason": "Original order confirmed and additional product successfully upsold.",
+    "Upsell Information": "Electric shaver offered at 66 Riyals instead of 200 Riyals and the offer was accepted by the customer.",
+    "Additional Metadata": {
+        "Call Duration": "00:03:30",
+        "Overall Sentiment": "Positive / Neutral",
+        "Keywords": [
+            "order",
+            "kohl",
+            "address",
+            "Souq Al Bangala",
+            "cash on delivery",
+            "shaver",
+            "Ramadan",
+            "discount"
+        ],
+        "Contextual Factors": "Special offer for the month of Ramadan.",
+        "Correlation Patterns": "Not Available (Single call only)"
+    },
+    "Agent Guidance": {
+        "Actions to Do": "Clearly confirm order details. Try to understand and pinpoint the address accurately even if the description is unconventional. Leverage seasonal offers to provide additional value to the customer.",
+        "Actions to Avoid": "Getting confused due to unconventional address descriptions. Failing to offer flexible payment options or value-added offers."
+    }
+}

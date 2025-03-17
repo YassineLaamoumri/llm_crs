@@ -1,0 +1,30 @@
+Agent: Peace be upon you.
+Customer: Peace and God's mercy.
+Agent: With you Ahmed from Damincom company, welcome.
+Customer: May God keep you alive.
+Agent: I am contacting you, brother Abdullah, regarding an order. The order is for binoculars with two lenses, 40 mm, and a field of vision of 1000 meters for 180 Riyals, okay?
+Customer: 1000 meters?
+Agent: Exactly.
+Customer: Huh?
+Agent: Yes, brother, it will be 1000 meters.
+Customer: No, no, excuse me, it's stated in the advertisement
+Customer: 3000 and 4000.
+Agent: 3000 and 4000?
+Customer: Yes, meaning 3 km and 4 km.
+Agent: Okay, I apologize to you for this mistake, brother, first of all, but I would like to inform you that the binoculars are very good and you can see with them at 1000 meters at night and in the day, they are very distinctive, or in foggy and rainy weather as well.
+Customer: No, by God, I want the one for 3 km or 4 km, the one in the advertisement.
+Agent: Okay, I will make you
+Customer: More?
+Customer: Huh?
+Agent: Would you like me to give you a discount? It will be 170 Riyals instead of 180.
+Customer: I don't want, I don't want, I didn't want this one, I wanted the one for 4 km and 3 km at least.
+Agent: Less.
+Customer: It was in the advertisement, it was in the advertisement 4 km.
+Customer: Yes, by God, see how the advertisement is, what they wrote in it.
+Agent: Okay, I apologize to you, brother, and I am very sorry for bothering you, please about the advertisement.
+Customer: No.
+Customer: May God keep you alive.
+Agent: Well, would you like to benefit from any other product, brother, and I will give you a discount on it?
+Customer: No, thank you.
+Agent: Sorry for the inconvenience, goodbye.
+Customer: May God keep you alive, goodbye.

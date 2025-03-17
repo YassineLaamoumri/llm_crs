@@ -1,0 +1,20 @@
+{
+    "Call ID": "8",
+    "Issue Summary": "Customer calls to inquire about a cancelled Ertab tablet order due to a product mismatch between the advertisement and the order details.",
+    "Customer's Request": "Customer explains that he ordered an Ertab tablet as advertised, but upon order activation, found the product changed to Max i15 Pro. He cancelled the order and sent an advertisement picture, but was surprised to see the order reactivated. He asks about the reason for this error and inquires about a possible discount if the order is confirmed for the Ertab tablet.",
+    "Agent's Response": "The agent apologized for the error and confirmed that the product is Ertab, not Max. She offered a discount on the order to accommodate the customer and resolve the situation. She inquired about the customer's location (Riyadh) and confirmed delivery within one to two business days.",
+    "Outcome": "Rejection",
+    "Outcome Reason": "The customer rejected the discount offer and informed the agent that he found the same product at a lower price (250) from a friend who owns a shop in Riyadh, and decided to cancel the order permanently.",
+    "Upsell Information": "Not Applicable",
+    "Additional Metadata": {
+        "Call Duration": "00:04:04",
+        "Overall Sentiment": "Neutral to Negative",
+        "Keywords": "Tablet, Ertab, Max, Order, Cancellation, Discount, Riyadh, Product, Advertisement",
+        "Contextual Factors": "Customer is located in Riyadh and needs the product soon. Found a better local offer.",
+        "Correlation Patterns": "Unknown"
+    },
+    "Agent Guidance": {
+        "Actions to Do": "Ensure that advertised product details match the product listed in the order to avoid misunderstandings and order cancellations. Offer a sincere apology and a reasonable discount in case of errors.",
+        "Actions to Avoid": "Reactivating an order after customer cancellation without confirming issue resolution. Not responding promptly to customer complaints about product discrepancies."
+    }
+}

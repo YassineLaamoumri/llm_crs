@@ -1,0 +1,86 @@
+[Agent]: Hello, peace be upon you.
+[Customer]: Hello.
+[Agent]: I am Mayar from Damakom Hayat support company speaking with you.
+[Customer]: Hello.
+[Agent]: Brother Mohammed, I am contacting you regarding an order you placed with us, which is the electric car for children with a 380-watt motor at a price of 365 Riyals, is that correct?
+[Customer]: Yes, correct.
+[Agent]: Great, I am contacting you now to confirm the order, shall I proceed with the order confirmation now?
+[Customer]: Okay, what colors do you have?
+[Agent]: Pardon?
+[Customer]: Colors, what are the car colors?
+[Agent]: We have red and white colors.
+[Customer]: Are there only two colors?
+[Agent]: Yes, these are the only two colors available right now.
+[Customer]: Okay, is there no pink or mauve color available?
+[Agent]: Is it for a little girl, madam?
+[Customer]: Yes, yes.
+[Agent]: Red might be nice for her.
+[Customer]: Okay, and no pink or mauve available with you?
+[Agent]: No, I am sorry, madam, these are the only two colors available to me, red and white.
+[Customer]: This car is new, right? Is it safe? I mean, it's not fast when she drives it, it doesn't have speed, right?
+[Agent]: No, it's not fast, uncle, it's for children. Besides, it has lights, you know, pink and blue colors, etc., so it also suits girls.
+[Customer]: Okay, up to what age is this car for?
+[Agent]: Just a moment.
+[Agent]: From what age in years?
+[Customer]: How much?
+[Agent]: From two to ten years old.
+[Customer]: Good, excellent, she is about seven years old.
+[Agent]: It will be nice for her.
+[Customer]: Okay, confirm the red one for me.
+[Agent]: The red one?
+[Customer]: Yes, because the white one is for, what's its name, boys, not girls.
+[Agent]: Alright.
+[Agent]: Could I take two minutes of your time just to review the data and address?
+[Customer]: Okay, no problem.
+[Agent]: Thank you, I need another mobile number from you for easy communication.
+[Customer]: 050
+[Agent]: 050
+[Customer]: 1130
+[Agent]: 1130
+[Customer]: 178
+[Agent]: 178, perfect.
+[Agent]: Are you located in Tabuk, Tayma?
+[Customer]: Yes, the area, it's not exactly the area, but we are living in Tayma now. It's a bit far, it belongs to Tabuk actually.
+[Agent]: Okay, Al-Rabwa neighborhood.
+[Customer]: Al-Rabwa neighborhood.
+[Agent]: Yes, okay.
+[Customer]: Al-Rabwa neighborhood.
+[Agent]: Arafa Al-Kindi street.
+[Customer]: What street?
+[Customer]: Arafa Al-Kindi street.
+[Agent]: Arafa Al-Kindi?
+[Customer]: Yes.
+[Agent]: Great, and I see in front of me that in Tayma there is Al-Tijari neighborhood, Qaa, and Montazah and Hadaj, are you close to any of them?
+[Customer]: I am close to, what's its name, the Montazah is close. Anyway, Tayma is close to each other, it's not very far.
+[Agent]: Great, can you give me any landmark near you?
+[Customer]: Okay, landmark, I work at Al-Shifa polyclinic center, health center Al-Shifa.
+[Agent]: Health center Al-Shifa?
+[Customer]: Yes.
+[Agent]: Perfect, God willing, the order will reach you within two to three working days. The delivery representative's working hours are daily from 9 am to 9 pm, and he will contact you two hours before arrival, is that okay?
+[Customer]: Okay, God willing. So, in how many days will it arrive, God willing?
+[Agent]: God willing, two or three days.
+[Customer]: God bless you. Where is your location? In Jeddah or where?
+[Agent]: No, our location is in Riyadh, Mursalat district.
+[Customer]: Okay, God bless you, sister.
+[Agent]: May God bless you, brother. And you have a product warranty, sorry, you have a warranty on this product for seven days against manufacturing or shipping defects. If there is any problem with the order or it arrives contrary to the advertisement specifications, you can return it through the QR code that will be on the order carton. And your warranty is from a company called Dozen Company for after-sales services, it has 11 branches inside the Kingdom, is that okay?
+[Customer]: God bless you, is there a branch for you in Tabuk?
+[Agent]: Tabuk, one moment.
+[Agent]: Yes, it has a branch in Tabuk, let me clarify it for you.
+[Agent]: In Tabuk, it is located in Al-Muruj district, next to Extra, the electronic devices store called Extra, and a hotel called Marvellous Hotel.
+[Customer]: Yes, okay, God willing.
+[Customer]: If there is anything or this, I will contact you. Is there a number I can contact you on?
+[Agent]: Yes, as soon as I finish the call with you, you will receive a message on WhatsApp from a number ending in 928, this number is for after-sales services, available to you 24 hours a day, is that okay?
+[Customer]: Okay, God willing, okay, God willing.
+[Agent]: Great, because you confirmed the first order, you won a bonus discount coupon up to 50% on an offer of 3 bottles of rosemary oil. This oil is 100% natural, it contains 45 types of concentrated natural oils, it works to grow hair in bald spots, lengthen hair, prevent hair loss and frizz. We can offer you the three for only 50 riyals instead of 130 riyals, and you can also use it to grow a beard.
+[Customer]: How much are the three rosemary oil bottles?
+[Agent]: The three are for 50 riyals instead of 130.
+[Customer]: Okay, put them with the order, no problem.
+[Agent]: Perfect, so the total of your order is 415 riyals, including everything up to your doorstep, is that okay?
+[Customer]: Okay, okay, God willing.
+[Agent]: Perfect, dear sir, any other inquiries?
+[Customer]: Thank you.
+[Agent]: You are welcome, sir. Payment cash or network or Tamara installments over four installments without interest?
+[Customer]: No, cash, possible, God willing, cash, God willing.
+[Agent]: Perfect, dear sir, God be with you, goodbye.
+[Customer]: Hello, hello, hello, peace.
+[Agent]: Hello, you are welcome.

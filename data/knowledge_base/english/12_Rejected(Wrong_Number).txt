@@ -1,0 +1,33 @@
+{
+    "Call ID": "12",
+    "Issue Summary": "Wrong number call regarding a non-existent order",
+    "Customer's Request": "Clarification that the caller is not the order holder and the number is wrong",
+    "Agent's Response": "Apology for the mistake and attempt to offer other products",
+    "Outcome": "Rejection",
+    "Outcome Reason": "Wrong number and the customer is not the order holder",
+    "Upsell Information": "Attempt to offer home, car and personal care products - Rejected",
+    "Additional Metadata": {
+        "Call Duration": "Unknown",
+        "Overall Sentiment": "Neutral",
+        "Keywords": [
+            "Order",
+            "Car scratch remover",
+            "Mistaken",
+            "Wrong number",
+            "Product"
+        ],
+        "Contextual Factors": "Order confirmation call",
+        "Correlation Patterns": "Wrong number calls lead to rejection of order confirmation and rejection of upsell"
+    },
+    "Agent Guidance": {
+        "Actions to Do": [
+            "Verify the phone number before calling",
+            "Sincerely apologize for calling the wrong number",
+            "Politely offer alternatives and other products"
+        ],
+        "Actions to Avoid": [
+            "Insisting on the existence of an order after customer denial",
+            "Being pushy with upselling after a wrong number call"
+        ]
+    }
+}

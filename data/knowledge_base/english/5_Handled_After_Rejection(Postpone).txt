@@ -1,0 +1,30 @@
+{
+    "Call ID": "5",
+    "Issue Summary": "Confirmation of product order (blender, grinder, meat grinder), utilizing the discount offer, and updating the delivery address.",
+    "Customer's Request": "The customer wants to confirm her order and utilize the advertised discount offer. She had a message to postpone delivery for 5 days due to travel, but she is currently in another city within the Kingdom and wants to have the order delivered to her current address.",
+    "Agent's Response": "Confirmed the order at the discounted price (189 riyals instead of 200 riyals). Updated the delivery address to Haql, Al-Zahra neighborhood, Al-Tahliya Street, near Haql General Hospital. Offered additional discounted products (digital measuring spoon and cleaning brush) but the customer declined. Confirmed cash on delivery and sending a confirmation message via WhatsApp.",
+    "Outcome": "Confirmation",
+    "Outcome Reason": "The order was confirmed and the address was updated based on the customer's request and to utilize the discount offer.",
+    "Upsell Information": "Offered two additional products (digital measuring spoon, cleaning brush) at a discounted price, but the customer declined.",
+    "Additional Metadata": {
+        "Call Duration": "Unknown",
+        "Overall Sentiment": "Positive",
+        "Keywords": [
+            "order",
+            "delivery",
+            "offer",
+            "blender",
+            "grinder",
+            "meat grinder",
+            "discount",
+            "address",
+            "Tamara"
+        ],
+        "Contextual Factors": "Special Ramadan offer for two days.",
+        "Correlation Patterns": "No clear patterns related to confirmation rates observed in this conversation."
+    },
+    "Agent Guidance": {
+        "Actions to Do": "Clearly confirm available discount offers. Verify and accurately update the delivery address when needed. Offer relevant additional products related to the original order.",
+        "Actions to Avoid": "Pressuring the customer to change the payment method if cash on delivery is preferred. Ignoring customer requests to change the delivery address."
+    }
+}

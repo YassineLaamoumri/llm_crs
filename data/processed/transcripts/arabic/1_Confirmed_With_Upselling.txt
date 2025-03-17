@@ -1,0 +1,4 @@
+{
+    "speaker_agent": "السلام عليكم.",
+    "speaker_customer": "تسلم تسلم كثير."
+}

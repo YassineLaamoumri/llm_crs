@@ -1,0 +1,20 @@
+{
+    "Call ID": "11",
+    "Issue Summary": "Customer requests a discount on the order and threatens to cancel if no discount is provided.",
+    "Customer's Request": "Customer asks about the possibility of getting a discount on the order and mentions that they found a lower price elsewhere.",
+    "Agent's Response": "The agent offers the maximum possible discount, emphasizes the product quality and high-quality materials, and explains the advantages of after-sales service and warranty.",
+    "Outcome": "Confirmed",
+    "Outcome Reason": "Customer agreed to the price after receiving the discount and clarifying the value of the product and services provided.",
+    "Upsell Information": "Not Applicable",
+    "Additional Metadata": {
+        "Call Duration": "00:02:33",
+        "Overall Sentiment": "Positive with initial hesitation from the customer.",
+        "Keywords": "discount, order, quality, price, after-sales service, warranty",
+        "Contextual Factors": "No clear external factors.",
+        "Correlation Patterns": "Providing the maximum possible discount while emphasizing quality and services increases the likelihood of order confirmation."
+    },
+    "Agent Guidance": {
+        "Actions to Do": "Offer the maximum possible discount within allowed limits, emphasize product quality and value, explain the advantages of after-sales service and warranty, be patient and understanding.",
+        "Actions to Avoid": "Immediately rejecting the discount request, not clarifying the value of the product for the price, not mentioning service advantages."
+    }
+}

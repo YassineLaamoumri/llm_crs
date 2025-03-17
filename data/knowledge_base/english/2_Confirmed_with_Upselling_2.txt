@@ -1,0 +1,29 @@
+{
+    "Call ID": "2",
+    "Issue Summary": "Confirmation of beard thickening set order, clarification of delivery address and receipt time.",
+    "Customer's Request": "Inquiry about order delivery time and address confirmation.",
+    "Agent's Response": "Confirmed the order, price, address, and delivery time. Offered an additional product (rosemary oil) and it was accepted by the customer. Confirmed cash payment method and explained warranty and return policy.",
+    "Outcome": "Confirmation",
+    "Outcome Reason": "Order details, address, delivery time, and payment were confirmed.",
+    "Upsell Information": "Rosemary oil was offered at a discounted price (50 riyals for three units) and was accepted by the customer.",
+    "Additional Metadata": {
+        "Call Duration": "Unknown",
+        "Overall Sentiment": "Neutral to slightly positive",
+        "Keywords": [
+            "order",
+            "delivery",
+            "address",
+            "price",
+            "beard",
+            "oil",
+            "cash",
+            "Tamara"
+        ],
+        "Contextual Factors": "No external influencing factors.",
+        "Correlation Patterns": "Not available"
+    },
+    "Agent Guidance": {
+        "Actions to Do": "Clearly confirm order details, be patient when clarifying the address, offer additional products politely, clearly explain the return policy.",
+        "Actions to Avoid": "Getting impatient when clarifying the address, not offering payment options."
+    }
+}

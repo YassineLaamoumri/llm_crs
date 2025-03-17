@@ -1,49 +1,49 @@
 ```json
 {
-  "cleaned_arabic_conversation": "[Agent]: السلام عليكم\n[Customer]: عليكم السلام ورحمة الله\n[Agent]: معك محمد من قسم تأكيد الطلبات، أهلاً وسهلاً فيك أخي، أتمنى تكون بخير.\n[Customer]: يا هلا\n[Agent]: الوقت مناسب أتواصل فيه مع حضرتك أخي عبد الله؟\n[Customer]: وش طلب طلبية يا هلا ولا ايش؟\n[Agent]: حضرتك طالب منظف الفوم السحري بسعر 189 ريال، مظبوط؟\n[Customer]: لا انا ما طلبت، غلطان بالرقم.\n[Agent]: هو حضرتك أخي عبد الله؟\n[Customer]: ايوه عبد الله، بس ما طلبت انا نهائياً.\n[Agent]: طيب ممكن يكون أحد من المنزل أو من الأهل يعني، تتواصل معهم وأكلمك مرة ثانية؟\n[Customer]: طالب طلبية دوش.\n[Agent]: دي، ده منظف فوم سحري، بينظف لك أي بقعة وأي شيء في المنزل. يعني مهما كانت على حتى كمان أحذية، ملابس، أي شيء.\n[Customer]: لا لا ما طلبت، غلطان بالرقم بشكلك بشكلك.\n[Agent]: طب ما تحب تسأل وتواصل معاك مرة ثانية؟\n[Customer]: لا لا لا، مع السلامة عليك.\n[Agent]: طب ما تحب حتى أوضح لك المنتج، أوضح لك أي شيء عنه؟\n[Customer]: لا ابغى أي شيء، أنا بس مشغول والله، مع السلامة عليك.\n[Agent]: طب بتشرف حضرتك جداً يا أخي، شكراً لحضرتك ومع السلامة.",
-  "knowledge_base_entry": {
-      "Call ID": "CALL_ID_001",
-      "Issue Summary": "Customer denies placing an order for 'Magic Foam Cleaner' during order confirmation call.",
-      "Customer's Request": "Customer states he did not order the product and clarifies he is Abdullah but did not make the purchase.",
-      "Agent's Response": "Agent confirms the order details (product and price), suggests a family member might have placed the order, briefly describes the product benefits, and offers to call back or provide more product information.",
-      "Outcome": "Rejection",
-      "Outcome Reason": "Customer explicitly denies placing the order and states it might be a mistake or someone else from the household.",
-      "Upsell Information": "Agent attempted a soft upsell by describing product benefits after the customer denied the order, but it was unsuccessful.",
+  "arabic": {
+    "cleaned_conversation": "[00:02] المتصل: السلام عليكم\n[00:04] الموظف: السلام ورحمة الله\n[00:06] الموظف: معك محمد من قسم تأكيد الطلبات، أهلا وسهلا فيك اخي، اتمنى تكون بخير\n[00:11] المتصل: يا هلا\n[00:12] الموظف: وقت مناسب اتواصل فيه مع حضرتك اخي عبد الله؟\n[00:15] المتصل: وش طلب الطلبية يا هلا ولا ايش؟\n[00:18] الموظف: حضرتك طالب منظف الفوم السحري بسعر 189 ريال، مضبوط؟\n[00:22] المتصل: لا انا ما طلبت غلطان يا ابو بالرقم\n[00:25] الموظف: هو حضرتك اخي عبد الله؟\n[00:27] المتصل: ايوه عبد الله بس ما طلبت انا نهائيا\n[00:30] الموظف: طيب ممكن يكون احد من المنزل او من الاهل يعني تتواصل معهم واكلمك مرة ثانية؟\n[00:34] المتصل: طالب طلبية دوش\n[00:37] الموظف: دي ده منظف فوم سحري بينظف لك اي بقعة واي شي في المنزل، يعني مهما كانت على حتى كمان احذية ملابس اي شي\n[00:43] المتصل: لا لا ما ما طلبت غلطان ما ابغى بشيء ابدا\n[00:46] الموظف: طيب ما تحب تسال وتواصل معاك مرة ثانية؟\n[00:48] المتصل: لا لا لا لا مع السلامة عليك\n[00:50] الموظف: طيب ما تحب حتى اوضح لك المنتج او اوضح لك اي شي عنه؟\n[00:53] المتصل: ولا ابغى اي شي يا اخي انا مشغول والله مع السلامة عليك\n[00:56] الموظف: طيب بتشرف حضرتك جدا اخي، شكرا لحضرتك ومع السلامة",
+    "knowledge_base_entry": {
+      "Call ID": "CALL-20240728-001",
+      "Issue Summary": "العميل ينفي طلب المنتج ويؤكد أنه لم يقم بطلب أي منتج.",
+      "Customer's Request": "العميل ينفي طلبه لمنظف الفوم السحري ويؤكد أنه لم يطلب المنتج.",
+      "Agent's Response": "الموظف يتحقق من اسم العميل ويؤكد الطلب بناءً على الاسم ورقم الهاتف. ثم يقترح أن يكون أحد أفراد العائلة قد قام بالطلب، ويحاول شرح المنتج.",
+      "Outcome": "رفض",
+      "Outcome Reason": "العميل يؤكد أنه لم يطلب المنتج وأنه مشغول ولا يرغب في أي معلومات إضافية.",
+      "Upsell Information": "غير مطبق",
       "Additional Metadata": {
-         "Call Duration": "0:59",
-         "Overall Sentiment": "Neutral to slightly negative (customer sounds slightly annoyed towards the end)",
-         "Keywords": ["تأكيد طلب", "الفوم السحري", "189 ريال", "ما طلبت", "غلطان بالرقم", "منظف فوم سحري"],
-         "Contextual Factors": "Potential misunderstanding regarding the order placement, possibility of order placed by another family member.",
-         "Correlation Patterns": "High rejection rate when order confirmation is made without prior customer awareness of the order."
+        "Call Duration": "00:59",
+        "Overall Sentiment": "سلبي (من طرف العميل)",
+        "Keywords": ["منظف فوم سحري", "طلب", "ما طلبت", "مشغول"],
+        "Contextual Factors": "مكالمة لتأكيد طلب منتج، العميل منزعج وينفي الطلب.",
+        "Correlation Patterns": "قد يكون هناك خطأ في رقم الهاتف أو أن شخص آخر من نفس المنزل قام بالطلب دون علم العميل."
       },
       "Agent Guidance": {
-         "Actions to Do": [
-             "Verify order details more thoroughly before calling (e.g., last digits of card, specific address).",
-             "Politely inquire if anyone else in the household might have placed the order.",
-             "Respect customer's denial and end the call gracefully without being pushy."
-         ],
-         "Actions to Avoid": [
-             "Insisting the customer placed the order when they deny it.",
-             "Pressuring the customer to accept the order.",
-             "Continuing to pitch the product after the customer has explicitly stated they are not interested and are busy."
-         ]
+        "Actions to Do": "التأكد من رقم الهاتف بعناية قبل الاتصال، السؤال بلطف عما إذا كان شخص آخر في المنزل قد قام بالطلب، عرض إلغاء الطلب إذا لم يتم طلبه.",
+        "Actions to Avoid": "الإصرار على تأكيد الطلب بعد نفي العميل، المبالغة في شرح المنتج عندما يكون العميل غير مهتم ومنزعج."
       }
+    }
   },
-  "english_translation": {
-    "Cleaned Conversation": "[Agent]: Peace be upon you.\n[Customer]: And upon you peace and God's mercy.\n[Agent]: With you is Mohammed from the order confirmation department, welcome brother, I hope you are well.\n[Customer]: Hello.\n[Agent]: Is this a good time to contact you, brother Abdullah?\n[Customer]: What order are you talking about, hello or what?\n[Agent]: You ordered the Magic Foam Cleaner for the price of 189 Riyals, is that correct?\n[Customer]: No, I did not order, you have the wrong number.\n[Agent]: Are you brother Abdullah?\n[Customer]: Yes, Abdullah, but I did not order anything at all.\n[Agent]: Well, maybe someone from the house or family, you can check with them and I will call you again later?\n[Customer]: Talking about an order is a headache.\n[Agent]: This, this is a Magic Foam Cleaner, it cleans any stain and anything in the house. I mean no matter what it is on, even shoes, clothes, anything.\n[Customer]: No, no, I did not order, you have the wrong number, thank you, thank you.\n[Agent]: Well, would you like to ask and I contact you again later?\n[Customer]: No, no, no, goodbye.\n[Agent]: Well, would you like me to even explain the product to you, explain anything about it?\n[Customer]: I do not want anything, I am just busy, God be with you.\n[Agent]: Well, I am very honored sir, thank you sir and goodbye.",
-    "Knowledge Base Entry": {
-       "Call ID": "CALL_ID_001",
-       "Issue Summary": "Customer denies placing an order for 'Magic Foam Cleaner'.",
-       "Customer's Request": "Customer denies ordering, clarifies identity but denies purchase.",
-       "Agent's Response": "Agent confirms order, suggests family order, describes product, offers callback/info.",
-       "Outcome": "Rejection",
-       "Outcome Reason": "Customer denies order, possible mistake or family order.",
-       "Upsell Information": "Unsuccessful soft upsell attempt by product description.",
-       "Additional Metadata": "Call duration, neutral-negative sentiment, keywords, context of misunderstanding, high rejection pattern.",
-       "Agent Guidance": {
-         "Actions to Do": ["Verify order details, inquire about family, respect denial.", "Politely inquire about family order.", "Respect denial."],
-         "Actions to Avoid": ["Insist on order, pressure customer, continue pitching after rejection.", "Pressuring customer.", "Push product after rejection."]
-       }
+  "english": {
+    "cleaned_conversation": "[00:02] Caller: Hello, peace be upon you.\n[00:04] Agent: And upon you peace and God's mercy.\n[00:06] Agent: With you is Mohammed from the order confirmation department, welcome brother, I hope you are doing well.\n[00:11] Caller: Hello.\n[00:12] Agent: Is this a good time to contact you, brother Abdullah?\n[00:15] Caller: What order are you talking about, hello or what?\n[00:18] Agent: You ordered the Magic Foam Cleaner for 189 Riyals, is that correct?\n[00:22] Caller: No, I didn't order, you are mistaken with the number, Abu.\n[00:25] Agent: Are you brother Abdullah?\n[00:27] Caller: Yes, Abdullah, but I didn't order it at all.\n[00:30] Agent: Okay, maybe someone from the house or family, you can check with them and I'll call you again?\n[00:34] Caller: What order are you talking about, dude?\n[00:37] Agent: This, it's a Magic Foam Cleaner that cleans any stain and anything in the house, meaning no matter what it is, even shoes, clothes, anything.\n[00:43] Caller: No, no, I didn't order, you are mistaken, I don't want anything at all.\n[00:46] Agent: Okay, would you like to ask and I contact you again?\n[00:48] Caller: No, no, no, goodbye, peace be upon you.\n[00:50] Agent: Okay, would you like me to even explain the product to you or clarify anything about it?\n[00:53] Caller: I don't want anything brother, I am busy, by God, goodbye, peace be upon you.\n[00:56] Agent: Okay, I am very honored sir, thank you sir and goodbye.",
+    "knowledge_base_entry": {
+      "Call ID": "CALL-20240728-001",
+      "Issue Summary": "Customer denies ordering the product and confirms he did not place any order.",
+      "Customer's Request": "Customer denies ordering the Magic Foam Cleaner and confirms he did not order the product.",
+      "Agent's Response": "The agent verifies the customer's name and confirms the order based on the name and phone number. Then suggests that someone from the family might have placed the order and attempts to explain the product.",
+      "Outcome": "Rejection",
+      "Outcome Reason": "Customer confirms he did not order the product and that he is busy and does not want any additional information.",
+      "Upsell Information": "Not Applicable",
+      "Additional Metadata": {
+        "Call Duration": "00:59",
+        "Overall Sentiment": "Negative (from the customer side)",
+        "Keywords": ["Magic Foam Cleaner", "Order", "I didn't order", "Busy"],
+        "Contextual Factors": "Call to confirm a product order, customer is annoyed and denies the order.",
+        "Correlation Patterns": "There might be a mistake in the phone number or someone else from the same household placed the order without the customer's knowledge."
+      },
+      "Agent Guidance": {
+        "Actions to Do": "Double-check the phone number carefully before calling, politely ask if someone else in the household might have placed the order, offer to cancel the order if it was not placed.",
+        "Actions to Avoid": "Insisting on confirming the order after the customer denies it, over-explaining the product when the customer is uninterested and annoyed."
+      }
     }
   }
 }

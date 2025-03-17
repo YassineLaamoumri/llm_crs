@@ -1,0 +1,110 @@
+[
+    {
+        "speaker": "Agent",
+        "utterance": "Peace be upon you."
+    },
+    {
+        "speaker": "Customer",
+        "utterance": "And upon you peace and God's mercy."
+    },
+    {
+        "speaker": "Agent",
+        "utterance": "Hello, sister, with you Rodaina from the order confirmation department, can I help you?"
+    },
+    {
+        "speaker": "Customer",
+        "utterance": "No, okay sister, cancel, I cancelled, I am not present in the delivery area."
+    },
+    {
+        "speaker": "Agent",
+        "utterance": "Excuse me, brother, can you clarify?"
+    },
+    {
+        "speaker": "Customer",
+        "utterance": "I am not present in the delivery area."
+    },
+    {
+        "speaker": "Agent",
+        "utterance": "You are not present?"
+    },
+    {
+        "speaker": "Customer",
+        "utterance": "Not present, cancel the order."
+    },
+    {
+        "speaker": "Agent",
+        "utterance": "Okay, can I ship the order to you, brother, to the address where you are currently located?"
+    },
+    {
+        "speaker": "Customer",
+        "utterance": "What?"
+    },
+    {
+        "speaker": "Agent",
+        "utterance": "Can I ship the order to you to the place where you are currently present?"
+    },
+    {
+        "speaker": "Customer",
+        "utterance": "No, no, no, I am present, I am going out, traveling to Syria, I am going to Syria."
+    },
+    {
+        "speaker": "Agent",
+        "utterance": "Traveling to Syria?"
+    },
+    {
+        "speaker": "Customer",
+        "utterance": "Yes."
+    },
+    {
+        "speaker": "Agent",
+        "utterance": "Under your command, would you like me to postpone it until you return from travel?"
+    },
+    {
+        "speaker": "Customer",
+        "utterance": "God willing, it's okay."
+    },
+    {
+        "speaker": "Agent",
+        "utterance": "When will you be returning, brother?"
+    },
+    {
+        "speaker": "Customer",
+        "utterance": "Sister, والله (By God) I am not sure, but I am traveling, cancel it, I will order it again when I return."
+    },
+    {
+        "speaker": "Agent",
+        "utterance": "Under your command, you have an order from Fahmi Store, you ordered under the name of brother Ammar Muhammad Al-Zein, an order for a practical drill 25 drill bit, is 209 Riyals correct?"
+    },
+    {
+        "speaker": "Customer",
+        "utterance": "Yes."
+    },
+    {
+        "speaker": "Agent",
+        "utterance": "Okay brother, if you are available, let me clarify, I can postpone it for you until you return from travel, if you will return when?"
+    },
+    {
+        "speaker": "Customer",
+        "utterance": "I don't know when, in a month, in two months, in 15 days, والله (By God) I don't know, sister."
+    },
+    {
+        "speaker": "Agent",
+        "utterance": "Is there no one who can receive the order from your family, brother?"
+    },
+    {
+        "speaker": "Customer",
+        "utterance": "No, no, no one, if I return I will call you."
+    },
+    {
+        "speaker": "Agent",
+        "utterance": "Okay brother, under your command, I apologize for the inconvenience."
+    },
+    {
+        "speaker": "Customer",
+        "utterance": "Goodbye."
+    },
+    {
+        "speaker": "Agent",
+        "utterance": "Goodbye."
+    }
+]

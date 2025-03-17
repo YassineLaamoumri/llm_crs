@@ -1,0 +1,27 @@
+{
+    "Call ID": "9",
+    "Issue Summary": "Customer is objecting to the advertised viewing range of the binoculars, as the advertisement mentions a viewing range of 3-4 kilometers while the actual product range is only 1000 meters.",
+    "Customer's Request": "Customer wants binoculars with a viewing range of 3-4 kilometers as mentioned in the advertisement.",
+    "Agent's Response": "The agent apologized for the error in the advertisement and confirmed that the product's viewing range is only 1000 meters. The agent offered a discount on the current product.",
+    "Outcome": "Rejection",
+    "Outcome Reason": "The customer is not satisfied with the 1000-meter viewing range and wants the advertised product with a 3-4 kilometer range.",
+    "Upsell Information": "Unsuccessful attempt to offer a discount on the current product.",
+    "Additional Metadata": {
+        "Call Duration": "Unknown",
+        "Overall Sentiment": "Negative due to product mismatch with advertisement.",
+        "Keywords": [
+            "binoculars",
+            "1000 meters",
+            "3 km",
+            "4 km",
+            "advertisement",
+            "discount"
+        ],
+        "Contextual Factors": "Misleading product advertisement.",
+        "Correlation Patterns": "Misleading advertisements lead to customer dissatisfaction and product rejection."
+    },
+    "Agent Guidance": {
+        "Actions to Do": "Immediately apologize for the error in the advertisement, clearly explain the product specifications accurately, offer an alternative product if available with the desired viewing range, offer a discount as a gesture of goodwill.",
+        "Actions to Avoid": "Arguing with the customer, insisting on the incorrect information in the advertisement, not acknowledging the advertisement error, not offering an alternative solution or compensation."
+    }
+}

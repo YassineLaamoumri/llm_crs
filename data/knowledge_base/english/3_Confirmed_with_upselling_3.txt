@@ -1,0 +1,26 @@
+{
+    "Call ID": "3",
+    "Issue Summary": "Confirmation of an electric car order for children, inquiry about colors and delivery time.",
+    "Customer's Request": "Confirm the order for the electric car for children, inquire about available colors (preferably pink or mauve), inquire about the car's speed and safety for children, confirm the appropriate age for the toy, and inquire about the location of the after-sales service company in Tabuk.",
+    "Agent's Response": "Confirmed the order and clarified the available colors (red and white), confirmed that the car is safe and not fast and suitable for children aged two to ten years, clarified the location of the after-sales service branch in Tabuk in Al-Muruj district next to Extra and Marvellous Hotel, and offered a discount on rosemary oil, which was accepted by the customer.",
+    "Outcome": "Confirmation",
+    "Outcome Reason": "The order for the electric car was confirmed and the offer for the additional product was accepted.",
+    "Upsell Information": "A 50% discount coupon was offered on a set of 3 rosemary oil bottles and was accepted by the customer.",
+    "Additional Metadata": {
+        "Call Duration": "00:06:29",
+        "Overall Sentiment": "Positive (polite and cooperative)",
+        "Keywords": [
+            "order",
+            "electric car",
+            "colors",
+            "delivery",
+            "rosemary oil"
+        ],
+        "Contextual Factors": "The customer is buying a gift for a girl and is concerned about product safety.",
+        "Correlation Patterns": "Not available in a single call analysis"
+    },
+    "Agent Guidance": {
+        "Actions to Do": "Clearly confirm order details, handle customer color preferences gently even if not available, emphasize product safety features, offer relevant upsell offers.",
+        "Actions to Avoid": "Do not abruptly dismiss customer color preferences, ensure delivery details are fully clarified."
+    }
+}

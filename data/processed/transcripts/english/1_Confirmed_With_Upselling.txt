@@ -1,0 +1,4 @@
+{
+    "speaker_agent": "Peace be upon you.",
+    "speaker_customer": "Thank you, thank you very much."
+}

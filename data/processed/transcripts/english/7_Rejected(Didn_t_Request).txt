@@ -1,0 +1,78 @@
+[
+    {
+        "speaker": "Agent",
+        "dialogue": "Peace be upon you."
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "And upon you peace and God's mercy."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "This is Mohammed from the order confirmation department. Welcome, brother. I hope you are doing well."
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "Hello."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Is this a good time to contact you, brother Abdullah?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "What order are you talking about, hello?"
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "You ordered the Magic Foam cleaner for 189 Riyals. Is that correct?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "No, I didn't order, you've got the wrong number, sir."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Are you brother Abdullah?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "Yes, Abdullah, but I didn't order anything at all."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Well, maybe someone from the house or family, you can check with them and I'll call you back again?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "I am not ordering any order."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "This is a magic foam cleaner, it cleans any stain or anything in the house. I mean, no matter what it is on, even shoes, clothes, anything."
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "No, no, wrong number, wrong number, thank you, thank you."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Well, would you like to ask and I'll contact you again?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "No, no, no, goodbye, peace be upon you."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Well, would you like me to even explain the product to you, clarify anything about it?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "No, I don't want anything, no, no, I am busy, God bless you."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Okay, thank you very much, brother. Thank you and goodbye."
+    }
+]

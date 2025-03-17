@@ -1,0 +1,52 @@
+Agent: Hello, peace be upon you.
+Customer: Peace be upon you and God's mercy.
+Agent: With you, your brother Salma from Damankom Company, welcome.
+Customer: Welcome you.
+Agent: I am contacting you, brother Sami, regarding your order, which is the beard thickening set, its price was 165 riyals, including delivery and tax, correct?
+Customer: How much?
+Agent: 165 riyals, including delivery and tax.
+Customer: Okay, when will it reach me?
+Agent: I just need two minutes of your time to review the data together. I need the detailed address so I can tell you when it will arrive.
+Customer: The address is Beesh, Beesh Governorate.
+Agent: Beesh, belonging to which region, the Eastern Region?
+Customer: No, from the South, Jazan.
+Agent: You are in Jazan, in Beesh?
+Customer: Yes.
+Agent: Okay, moments. Beesh Governorate, on the public road, Al Shallal station.
+Agent: Moments. You are in Jazan, in Beesh? Beesh neighborhood too?
+Customer: Huh?
+Agent: What is the name of your neighborhood?
+Customer: Beesh Governorate.
+Agent: The neighborhood itself, the neighborhood.
+Customer: Neighborhood, we are at the station here, but we don't have a neighborhood here.
+Agent: Next to which station, please? Al Shallal station, a large complex.
+Agent: Next to Al Shallal station. Okay, is there a building number for the building you live in?
+Customer: Huh?
+Agent: Is there a building number for the building you live in?
+Customer: No, by God, there isn't.
+Agent: Okay, is there a street name or something?
+Customer: No, I don't have a name. This is on the public road only. The public road that takes you to Jazan.
+Agent: Okay brother, no problem. God willing, it will reach you within two to three business days. Delivery times will be from 9 am to 9 pm. Will that be suitable for you?
+Customer: By God, in the evening it will be suitable, but in the morning I am not present.
+Agent: The delivery person will contact you two hours beforehand to coordinate the time with you, okay?
+Customer: Good, God willing.
+Agent: Okay brother, I just needed another mobile number from you for contact.
+Customer: I don't have another mobile number other than this one, by God.
+Agent: Okay brother, no problem. Okay, but this number is always available with me.
+Agent: Okay, no problem. Okay, would you like to pay by Tamara, or cash, or card, or via bank card?
+Customer: No, I will cash.
+Agent: You don't want to pay via Tamara in four installments without any interest?
+Customer: By God, no. Cash is better.
+Agent: Okay, no problem. You will have a warranty with you. This warranty is for seven days against manufacturing and shipping defects and before use. If, God forbid, there is a problem with the product, you can contact after-sales service via the QR code that is on the packaging from the outside. If there is a return or something, they tell you the nearest branch to you from Damankom Company. You go to the branch, hand them the product, and we will contact you and return the money to your account again, okay?
+Customer: Good, God willing.
+Agent: Okay, I have confirmed the order for you. I will send you a confirmation message now from our special number that ends in 28. This number will be available with you 24 hours before or after receiving the product. If there is any problem, you can send to us at any time.
+Customer: Good, God willing, no problem.
+Agent: Okay brother, it also appeared to me that you won a gift discount coupon for three units of rosemary oil. This is very suitable for hair growth and beard growth, okay? It improves blood circulation and stimulates hair growth and makes the hair, as I told you, more dense. The three units will be for 50 riyals instead of 120 riyals. So if we add it, the total price will be 215 riyals, including delivery and tax.
+Agent: Okay?
+Customer: No problem, God willing.
+Agent: Okay, I added it for you. Would you like to inquire about anything else?
+Customer: No, no, by God, may God reward you with goodness.
+Agent: Okay brother, thank you very much for your time. Wishing you a happy day.
+Customer: May God protect you.
+Agent: Goodbye.
+Customer: May God protect you.

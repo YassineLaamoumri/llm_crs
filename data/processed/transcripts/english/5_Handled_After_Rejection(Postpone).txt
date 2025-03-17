@@ -1,0 +1,406 @@
+[
+    {
+        "speaker": "Agent",
+        "dialogue": "Hello"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "Hello? Peace be upon you."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "And upon you peace."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Good evening, sister. This is Maya from the order confirmation department."
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "Delivery for what?"
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "I'm contacting you, Ms. Mashael Abdulrahman, regarding your order. Is this a good time to talk?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "I was written on WhatsApp for five days."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Yes, I'm contacting you regarding the German blender that you wanted..."
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "Ah yes, yes, about the one we just ordered, yes."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Okay, you want your order to arrive after five days because you are not available?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "Yes, five days."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Is there no one at home who can receive it for you?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "No, how many days will it take to arrive?"
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Are you at the address, are you in Tabuk?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "No, I am not in the same city that I am usually in. We are traveling, you know, vacation."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Are you traveling outside the Kingdom itself?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "No, no, inside the Kingdom. I am currently in the Tabuk region, in Haql."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Oh, you want to receive your order. We have delivery available to all parts of the Kingdom. Since you are available, we can deliver your order to you."
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "No, it's okay, five days, and it will be in the same city I am in."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Okay, I just informed you because there was a discount available on it, for 189 riyals instead of 200 riyals. Also, you have a 30% discount on any other product you would like to add to your order. And this offer was for two days. That's why I asked if you could receive your order at your address instead of postponing it so that the offer doesn't expire on you. Is that okay for you?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "Yes, I want it with the offer."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "The offer is for 200 riyals, okay?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "How much?"
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "For 200 riyals."
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "200?"
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "For 200 riyals."
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "Okay?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "Yes, yes, okay, yes, we received a message saying 200."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Okay."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Hello? Ms. Mashael?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "Can you hear me?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "Yes, I hear you, I hear you, I just heard you."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "The offer is for the blender, grinder, and meat grinder for 200 riyals, okay?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "Hello?"
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Hello, peace be upon you."
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "And upon you peace."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "The offer for the three pieces is 200 riyals."
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "Yes, cash on delivery, right?"
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "As you wish, cash, network (card payment) on delivery, Tamara installments without any interest, and online are available. Okay, sister?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "No, cash on delivery."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Okay, I just informed you that there was an additional discount on this offer for the occasion of Ramadan for two days, at a price of 189 riyals instead of 200 riyals. Also, you will have a 30% discount on any other product you would like to add to your order. This offer is for the blender..."
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "The blender?"
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Yes, on the total, I mean, on the total price."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "So that's why I asked if you can receive your order at this address instead of it expiring on you."
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "If I..."
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "No, no, no, we entered the website and ordered, and they said they would contact us within 24 hours."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Well, I am contacting you."
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "Okay, yes, okay."
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "We want to confirm the order."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "What do you want?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "We want the order."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Okay, but you said you would postpone it for five days until you are at the address."
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "No no no."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Well, if I confirm your order, okay, it will be sent to the shipping company. It will reach you within a day or two. So, that means, and you said you are not available. So, that's why I asked if you would like to receive it at your current address."
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "Okay, fine, yes, to the address where I am currently located."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Okay, can you tell me the address where you are currently located?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "In Haql."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Haql?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "Al-Zahra neighborhood."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "What is the name of the neighborhood?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "Al-Zahra neighborhood."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Okay."
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "Al-Zahra, Al-Zahra."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Al-Zahra exactly."
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "Yes."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Okay, the order will reach you at your address within two to three working days, from 9 am to 9 pm, okay? The delivery representative will contact you an hour before to confirm with you the suitable time, okay?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "Okay, okay."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Would you like to pay in installments with Tamara without any interest?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "No."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Okay."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Okay, your order will be for 189. The number I am contacting you on, which ends in 06, is this on WhatsApp?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "Yes, yes."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Okay, I will end the call with you immediately, Ms. Mashael. You will receive a message on WhatsApp that your order has been confirmed. This number will be available to you 24 hours if you have any inquiries before or after receiving the order, okay?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "Okay."
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "Do you have an additional phone number to contact?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "No, no, this phone is always working."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "If you don't have an additional number, maybe an additional number, maybe a number for someone from the household?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "No, no, it's okay, this phone is available."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Okay, no problem. You will have a six-month warranty for return and maintenance. You will receive with your order inside the carton a barcode, you know, the white square with the black pattern?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "Yes, yes."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "You may want to keep it if you have any problem with your order, you photograph it using your mobile camera, it will reach our after-sales service. And the return will be through Ruzm branches, this is a service center affiliated with us, okay?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "Okay."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "I have confirmed your order at a price of 189 riyals. I just wanted to add one last thing, sister. There is a discount for you on two products at a symbolic price. I will tell you about the products and see if you would like to benefit from any of them or not?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "What are the products?"
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "The first product is a digital measuring spoon, okay? This is a spoon that you can use to measure the number of grams of flour, sugar, it works well for you in sweets and pastries, it will turn out excellent. It is priced at 25 riyals instead of 50 riyals. This is the first discount coupon. The second discount coupon is for you on a brush on a microfiber stick. Its length extends to one and a half meters, you can clean corners, walls, and floors with it. Its price is riyal, price 19 riyals instead of 50 riyals."
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "No, no, no, it's okay, just the blender and the..."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Okay."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "I have confirmed your basic order. Would you like to inquire about anything else?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "No, thank you."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "You're welcome, goodbye."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Could you please provide the street name where you are located in Al-Zahra neighborhood?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "Al-Tahliya Street."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Al-Tahliya Street?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "Yes."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Okay, and is there any landmark, bank, supermarket, pharmacy, clinic?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "Haql General Hospital."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Okay, does the house have a number?"
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "No, no, it doesn't have a number."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "Okay, thank you, sister. I have confirmed it on the address. Sorry if I kept you long."
+    },
+    {
+        "speaker": "Customer",
+        "dialogue": "Thank you, may God give you wellness."
+    },
+    {
+        "speaker": "Agent",
+        "dialogue": "You're welcome, goodbye."
+    }
+]

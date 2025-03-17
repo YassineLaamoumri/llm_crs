@@ -1,0 +1,27 @@
+[Agent]: Hello.
+[Customer]: Hello, peace be upon you.
+[Agent]: And upon you peace and God's mercy and blessings. Hello brother, how are you?
+[Customer]: Praise be to God and thanks to Him, hopefully all is well.
+[Agent]: May God keep you well, dear. Thank you for your time, I wish you a happy day. With you Nada from the order confirmation department. I'm contacting you, dear, regarding your order, which is requested under the name of brother Muhammad Salim Al-Rashidi. And you ordered a pen that is effectively a carrier. The total cost is 110 Riyals, including everything up to the doorstep, dear, understood?
+[Customer]: Aha.
+[Agent]: Great, dear. Just take two minutes of your time to review some data regarding the order.
+[Customer]: For me, I told them, is there a discount? They said no. I said cancel the order.
+[Agent]: No, just a moment, dear, you are in my eyes. If it's about a discount, we'll do it for you.
+[Customer]: May God have mercy on your parents, may God have mercy on your parents, may your eyes be safe.
+[Agent]: May God keep you well, dear. Just a moment with me.
+[Agent]: The maximum discount I can make for you, dear, will be with you at 104 Riyals, including everything up to the doorstep. It is definitely my discount, not... I mean not... I mean not that it's definitely the maximum but it's the maximum discount I can make for you. I mean if I could make more, I would definitely make more for you, dear.
+[Customer]: God bless you, I got it cheaper before.
+[Agent]: What?
+[Customer]: I got it before.
+[Agent]: But I would like to clarify to you, dear, that we have many advantages that are not available anywhere else. I give you all your rights after receiving the order. I give you, dear, I mean the highest quality material and high-quality materials at a price not found anywhere else. And also, you will have a number to contact us directly, if there is any problem with the order, God forbid, you can contact us directly through the after-sales service number, and this is not available anywhere else. And also, dear, you will have a seven-day warranty against manufacturing and shipping defects, and you can return the product again if there is any problem, God forbid, through the QR code available with the order, and you hand over the product, dear, to the nearest branch of the delivery company responsible for after-sales services. And also, it is available for you, I mean.
+[Customer]: Yes, yes, dear.
+[Agent]: My dear, you got it before.
+[Agent]: Okay, dear, whatever you want. I mean, you are not going to proceed with us?
+[Customer]: God, I got it cheaper, God, I got it cheaper, dear, God, I got it cheaper, dear, if there is, I mean, if there is a slight difference, I said it's okay.
+[Agent]: Okay, dear, but I would like to clarify to you that it is manufactured from high-quality materials. So I am giving you value for the price.
+[Customer]: God bless you, may God have mercy on your parents.
+[Agent]: You understand me, dear.
+[Agent]: Okay, dear, no problem at all. Any other inquiries I can help you with?
+[Customer]: Your safety, your safety, your safety.
+[Agent]: May God keep you well, dear, goodbye.
+[Customer]: Hello.

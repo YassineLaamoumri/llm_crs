@@ -1,0 +1,31 @@
+Agent: Hello, peace be upon you.
+Customer: And peace be upon you.
+Agent: How are you, sister? Hope you are well.
+Customer: Thank God, fine.
+Agent: I am Abdullah from the order confirmation and follow-up department. I am contacting you regarding an order that was under the name of brother Mohammed Al-Mutairi from Kashkh store. It was a modern nail clipper with a screen, priced at 149 riyals.
+Customer: I sent, I sent on WhatsApp and cancelled you.
+Agent: You cancelled us with what exactly on WhatsApp, sister?
+Customer: Order confirmation, order cancellation, I cancelled the order, خلاص (finished).
+Agent: Okay, can I know why you cancelled it and how I can help you?
+Customer: Very expensive, very expensive. I found it on another site cheaper.
+Agent: Did you buy it or haven't you bought it yet, sister?
+Customer: I bought.
+Agent: Meaning you bought an order or haven't you bought it yet?
+Customer: No, no, no, but before this.
+Agent: Okay, I can offer you a very excellent discount on it, it will be 135 with delivery to your doorstep.
+Customer: No, no, never, very expensive, really.
+Agent: Okay, sister, I mean it's not expensive compared to, I mean, the quality we provide in it, and in addition, we provide a guarantee on it as well.
+Customer: No, very expensive, very very very expensive. I found it cheaper for 35 or 15 and 20.
+Agent: Okay sister, but this one breaks quickly, sister. It breaks immediately.
+Customer: No, no, I mean I tried several times from them other things, they are good with them.
+Agent: Okay, well if you would like to benefit from it, I can offer you a discount on it, it will be 135, not 9 riyals extra.
+Customer: No, no, thank you.
+Agent: Okay, would you like to benefit from any other product if it's related to the house, car, household tools, personal care, I can help you with it?
+Customer: Okay.
+Agent: If you would like to benefit from any other product, I can help you with it.
+Customer: The website, what's its name?
+Agent: Kashkh, sister.
+Customer: خلاص (finished), okay, I will check it.
+Agent: No problem and I apologize for the inconvenience I caused you today.
+Customer: No problem, عادي ( عادي - normal/okay).
+Agent: Goodbye.

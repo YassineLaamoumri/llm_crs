@@ -1,0 +1,4 @@
+{
+    "Speaker 1": "May God bless you, thank you, please go ahead.",
+    "Speaker 2": "May God bless you."
+}
