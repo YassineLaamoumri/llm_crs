@@ -5,7 +5,7 @@
             "name": "Python Debugger: Module",
             "type": "debugpy",
             "request": "launch",
-            "module": "src.audio_processing.transcribe"
+            "module": "src.audio_processing.transcribe_gemini"
         },
         {
             "name": "Python Debugger: Current File",

@@ -1,55 +1,50 @@
-1
-00:00:00,000 --> 00:00:02,000
-مرحبا
-
-2
-00:00:02,000 --> 00:00:04,000
-السلام عليكم
-
-3
-00:00:04,000 --> 00:00:06,000
-السلام عليكم
-
-4
-00:00:06,000 --> 00:00:08,000
-معك محمد من قسم تأكيد التلابات
-
-5
-00:00:08,000 --> 00:00:10,000
-أهلا وسهلا فيك أخي أتمنى أن تكون بخير
-
-6
-00:00:10,000 --> 00:00:12,000
-يا أهلا
-
-7
-00:00:12,000 --> 00:00:14,000
-في وقت المناسبة توصل في محلق أخي عبد الله
-
-8
-00:00:16,000 --> 00:00:18,000
-طالب طالبي أنا أليش
-
-9
-00:00:18,000 --> 00:00:20,000
-حلق طالب منظف الفوم السحري
-
-10
-00:00:20,000 --> 00:00:22,000
-بسعر 189 ريال
-
-11
-00:00:22,000 --> 00:00:24,000
-لا لا ما طلبت
-
-12
-00:00:24,000 --> 00:00:26,000
-هو حلق أخي عبد الله
-
-13
-00:00:26,000 --> 00:00:28,000
-أيوه عبد الله
-
-14
-00:00:58,000 --> 00:01:00,000
-السلام عليكم
+```json
+{
+  "cleaned_arabic_conversation": "[Agent]: السلام عليكم\n[Customer]: عليكم السلام ورحمة الله\n[Agent]: معك محمد من قسم تأكيد الطلبات، أهلاً وسهلاً فيك أخي، أتمنى تكون بخير.\n[Customer]: يا هلا\n[Agent]: الوقت مناسب أتواصل فيه مع حضرتك أخي عبد الله؟\n[Customer]: وش طلب طلبية يا هلا ولا ايش؟\n[Agent]: حضرتك طالب منظف الفوم السحري بسعر 189 ريال، مظبوط؟\n[Customer]: لا انا ما طلبت، غلطان بالرقم.\n[Agent]: هو حضرتك أخي عبد الله؟\n[Customer]: ايوه عبد الله، بس ما طلبت انا نهائياً.\n[Agent]: طيب ممكن يكون أحد من المنزل أو من الأهل يعني، تتواصل معهم وأكلمك مرة ثانية؟\n[Customer]: طالب طلبية دوش.\n[Agent]: دي، ده منظف فوم سحري، بينظف لك أي بقعة وأي شيء في المنزل. يعني مهما كانت على حتى كمان أحذية، ملابس، أي شيء.\n[Customer]: لا لا ما طلبت، غلطان بالرقم بشكلك بشكلك.\n[Agent]: طب ما تحب تسأل وتواصل معاك مرة ثانية؟\n[Customer]: لا لا لا، مع السلامة عليك.\n[Agent]: طب ما تحب حتى أوضح لك المنتج، أوضح لك أي شيء عنه؟\n[Customer]: لا ابغى أي شيء، أنا بس مشغول والله، مع السلامة عليك.\n[Agent]: طب بتشرف حضرتك جداً يا أخي، شكراً لحضرتك ومع السلامة.",
+  "knowledge_base_entry": {
+      "Call ID": "CALL_ID_001",
+      "Issue Summary": "Customer denies placing an order for 'Magic Foam Cleaner' during order confirmation call.",
+      "Customer's Request": "Customer states he did not order the product and clarifies he is Abdullah but did not make the purchase.",
+      "Agent's Response": "Agent confirms the order details (product and price), suggests a family member might have placed the order, briefly describes the product benefits, and offers to call back or provide more product information.",
+      "Outcome": "Rejection",
+      "Outcome Reason": "Customer explicitly denies placing the order and states it might be a mistake or someone else from the household.",
+      "Upsell Information": "Agent attempted a soft upsell by describing product benefits after the customer denied the order, but it was unsuccessful.",
+      "Additional Metadata": {
+         "Call Duration": "0:59",
+         "Overall Sentiment": "Neutral to slightly negative (customer sounds slightly annoyed towards the end)",
+         "Keywords": ["تأكيد طلب", "الفوم السحري", "189 ريال", "ما طلبت", "غلطان بالرقم", "منظف فوم سحري"],
+         "Contextual Factors": "Potential misunderstanding regarding the order placement, possibility of order placed by another family member.",
+         "Correlation Patterns": "High rejection rate when order confirmation is made without prior customer awareness of the order."
+      },
+      "Agent Guidance": {
+         "Actions to Do": [
+             "Verify order details more thoroughly before calling (e.g., last digits of card, specific address).",
+             "Politely inquire if anyone else in the household might have placed the order.",
+             "Respect customer's denial and end the call gracefully without being pushy."
+         ],
+         "Actions to Avoid": [
+             "Insisting the customer placed the order when they deny it.",
+             "Pressuring the customer to accept the order.",
+             "Continuing to pitch the product after the customer has explicitly stated they are not interested and are busy."
+         ]
+      }
+  },
+  "english_translation": {
+    "Cleaned Conversation": "[Agent]: Peace be upon you.\n[Customer]: And upon you peace and God's mercy.\n[Agent]: With you is Mohammed from the order confirmation department, welcome brother, I hope you are well.\n[Customer]: Hello.\n[Agent]: Is this a good time to contact you, brother Abdullah?\n[Customer]: What order are you talking about, hello or what?\n[Agent]: You ordered the Magic Foam Cleaner for the price of 189 Riyals, is that correct?\n[Customer]: No, I did not order, you have the wrong number.\n[Agent]: Are you brother Abdullah?\n[Customer]: Yes, Abdullah, but I did not order anything at all.\n[Agent]: Well, maybe someone from the house or family, you can check with them and I will call you again later?\n[Customer]: Talking about an order is a headache.\n[Agent]: This, this is a Magic Foam Cleaner, it cleans any stain and anything in the house. I mean no matter what it is on, even shoes, clothes, anything.\n[Customer]: No, no, I did not order, you have the wrong number, thank you, thank you.\n[Agent]: Well, would you like to ask and I contact you again later?\n[Customer]: No, no, no, goodbye.\n[Agent]: Well, would you like me to even explain the product to you, explain anything about it?\n[Customer]: I do not want anything, I am just busy, God be with you.\n[Agent]: Well, I am very honored sir, thank you sir and goodbye.",
+    "Knowledge Base Entry": {
+       "Call ID": "CALL_ID_001",
+       "Issue Summary": "Customer denies placing an order for 'Magic Foam Cleaner'.",
+       "Customer's Request": "Customer denies ordering, clarifies identity but denies purchase.",
+       "Agent's Response": "Agent confirms order, suggests family order, describes product, offers callback/info.",
+       "Outcome": "Rejection",
+       "Outcome Reason": "Customer denies order, possible mistake or family order.",
+       "Upsell Information": "Unsuccessful soft upsell attempt by product description.",
+       "Additional Metadata": "Call duration, neutral-negative sentiment, keywords, context of misunderstanding, high rejection pattern.",
+       "Agent Guidance": {
+         "Actions to Do": ["Verify order details, inquire about family, respect denial.", "Politely inquire about family order.", "Respect denial."],
+         "Actions to Avoid": ["Insist on order, pressure customer, continue pitching after rejection.", "Pressuring customer.", "Push product after rejection."]
+       }
+    }
+  }
+}
+```
