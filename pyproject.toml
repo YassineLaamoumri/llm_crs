@@ -7,7 +7,11 @@ requires-python = ">=3.13,<4.0"
 dependencies = [
     "black>=25.1.0",
     "langchain>=0.3.20",
+    "noisereduce>=3.0.3",
     "numpy>=2.2.3",
     "pandas>=2.2.3",
+    "path>=17.1.0",
+    "pedalboard>=0.9.16",
     "pre-commit>=4.1.0",
+    "soundfile>=0.13.1",
 ]
