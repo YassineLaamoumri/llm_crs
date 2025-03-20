@@ -18,6 +18,7 @@ def display_chat_interface():
                 prompt, st.session_state.session_id, st.session_state.model
             )
             if response:
+                st.session_state.session_id = response["session_id"]
                 st.session_state.messages.append(
                     {"role": "assistant", "content": response["answer"]}
                 )

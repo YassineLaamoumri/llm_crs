@@ -1,12 +1,27 @@
 {
     "version": "0.2.0",
     "configurations": [
+
         {
             "name": "Python Debugger: Module",
             "type": "debugpy",
             "request": "launch",
             "module": "src.rag.rag"
         },
+        {
+            "name": "Debug FastAPI with Uvicorn",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "uvicorn",
+            "cwd": "${workspaceFolder}",
+            "args": [
+                "fastapi_app.main:app",
+                "--host", "127.0.0.1",
+                "--port", "8000"
+            ],
+            "jinja": true
+        },
+
         {
             "name": "Python Debugger: Current File",
             "type": "debugpy",

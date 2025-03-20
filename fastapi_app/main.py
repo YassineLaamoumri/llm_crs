@@ -12,6 +12,8 @@ from src.rag.db_utils import insert_application_log, get_chat_history
 import os
 import uuid
 import logging
+import debugpy
+import uvicorn
 
 logging.basicConfig(filename="app.log", level=logging.INFO)
 
@@ -38,3 +40,7 @@ def ask(query_input: QueryInput):
     )
     logging.info(f"Response to session {session_id}: {answer}")
     return QueryAnswer(answer=answer, session_id=session_id, model=query_input.model)
+
+
+if __name__ == "__main__":
+    uvicorn.run(app, host="0.0.0.0", port=8000)

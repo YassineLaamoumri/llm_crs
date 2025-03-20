@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+  fastapi:
+    build:
+      context: .
+      dockerfile: Dockerfile.fastapi
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./:/app
+      - ./chroma_db:/app/chroma_db
+    environment:
+      - PYTHONPATH=/app
+    restart: unless-stopped
+
+  streamlit:
+    build:
+      context: .
+      dockerfile: Dockerfile.streamlit
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./:/app
+    environment:
+      - PYTHONPATH=/app
+      - FASTAPI_URL=http://fastapi:8000
+    depends_on:
+      - fastapi
+    restart: unless-stopped

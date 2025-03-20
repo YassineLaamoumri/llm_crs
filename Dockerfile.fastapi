@@ -1,0 +1,15 @@
+FROM python:3.13-slim
+
+WORKDIR /app
+
+COPY pyproject.toml ./
+
+# Install project dependencies
+RUN pip install --no-cache-dir uv && \
+    uv pip install --no-cache-dir -e .
+
+# Copy the rest of the application
+COPY . .
+
+# Run the FastAPI application
+CMD ["uvicorn", "fastapi_app.main:app", "--host", "0.0.0.0", "--port", "8000"]
