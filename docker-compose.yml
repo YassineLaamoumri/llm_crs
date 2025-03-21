@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   fastapi:
     build:
@@ -8,11 +6,21 @@ services:
     ports:
       - "8000:8000"
     volumes:
-      - ./:/app
-      - ./chroma_db:/app/chroma_db
+      - fastapi-data:/app/data
+      - fastapi-chroma:/app/chroma_db
     environment:
-      - PYTHONPATH=/app
-    restart: unless-stopped
+      - LOG_LEVEL=info
+      - DATA_DIR=/app/data
+    user: app
+    develop:
+      watch:
+        - action: sync
+          path: .
+          target: /app
+          ignore:
+            - .venv/
+        - action: rebuild
+          path: ./uv.lock
 
   streamlit:
     build:
@@ -21,10 +29,27 @@ services:
     ports:
       - "8501:8501"
     volumes:
-      - ./:/app
+      - fastapi-data:/app/data
     environment:
-      - PYTHONPATH=/app
       - FASTAPI_URL=http://fastapi:8000
+    # Add this user directive for the streamlit service too
+    user: app
     depends_on:
       - fastapi
-    restart: unless-stopped
+    develop:
+      watch:
+        - action: sync
+          path: .
+          target: /app
+          ignore:
+            - .venv/
+        - action: rebuild
+          path: ./uv.lock
+
+volumes:
+  fastapi-data:
+    # Add volume configuration for better control
+    driver: local
+  fastapi-chroma:
+    # Add volume configuration for better control
+    driver: local

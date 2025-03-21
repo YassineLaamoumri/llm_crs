@@ -1,8 +1,12 @@
 import sqlite3
+import os
 from datetime import datetime
 from langchain_core.messages import HumanMessage, AIMessage
 
-DB_NAME = "rag_app.db"
+
+# Use environment variable with fallback
+data_dir = os.environ.get("DATA_DIR", ".")
+DB_NAME = os.path.join(data_dir, "rag_app.db")
 
 
 def get_db_connexion():

@@ -1,0 +1,48 @@
+# Stage 1: Build environment
+FROM ghcr.io/astral-sh/uv:python3.13-bookworm-slim AS builder
+ENV UV_COMPILE_BYTECODE=1 UV_LINK_MODE=copy
+ENV UV_PYTHON_DOWNLOADS=0
+WORKDIR /app
+
+
+# Install build tools and a modern C++ compiler (e.g., g++)
+RUN apt-get update && \
+    apt-get install -y build-essential g++ && \
+    apt-get clean
+
+# Copy dependency files for installation
+COPY pyproject.toml uv.lock ./
+
+# Install dependencies (cached)
+RUN --mount=type=cache,target=/root/.cache/uv \
+    uv sync --frozen --no-install-project --no-dev
+
+# Copy application code
+COPY . .
+
+# Install all dependencies including the project package
+RUN --mount=type=cache,target=/root/.cache/uv \
+    uv sync --frozen --no-dev
+
+# Stage 2: Runtime environment
+FROM python:3.13-slim-bookworm
+
+# Create app user for security
+RUN groupadd -r app && useradd -r -g app app
+WORKDIR /app
+
+# Copy application from builder
+COPY --from=builder --chown=app:app /app /app
+
+# Set PATH to use the virtual environment binaries
+ENV PATH="/app/.venv/bin:$PATH"
+
+# Expose the Streamlit port
+EXPOSE 8501
+
+# Switch to app user
+USER app
+
+
+# Run the Streamlit application
+CMD ["/app/.venv/bin/python", "-m", "streamlit", "run", "/app/streamlit_app/streamlit_app.py", "--server.address=0.0.0.0", "--server.port=8501"]

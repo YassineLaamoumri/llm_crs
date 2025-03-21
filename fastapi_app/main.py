@@ -12,7 +12,6 @@ from src.rag.db_utils import insert_application_log, get_chat_history
 import os
 import uuid
 import logging
-import debugpy
 import uvicorn
 
 logging.basicConfig(filename="app.log", level=logging.INFO)
