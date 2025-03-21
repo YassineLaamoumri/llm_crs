@@ -14,21 +14,29 @@ import os
 import uuid
 import logging
 import uvicorn
+import threading
 
 logging.basicConfig(filename="app.log", level=logging.INFO)
 
 app = FastAPI()
 
 
-@app.on_event("startup")
-async def startup_event():
-    logging.info("Starting audio processing script...")
+def run_audio_processing():
+    """Run the audio processing in a separate thread"""
     try:
-        # Run your audio processing function
+        logging.info("Starting audio processing script...")
         process_audio()
         logging.info("Audio processing completed successfully")
     except Exception as e:
         logging.error(f"Error running audio processing script: {str(e)}")
+
+
+@app.on_event("startup")
+async def startup_event():
+    """Log startup and schedule the processing to run after startup completes"""
+    logging.info("Application startup complete")
+    # Schedule the audio processing to run after startup
+    threading.Thread(target=run_audio_processing).start()
 
 
 @app.post("/ask", response_model=QueryAnswer)
