@@ -274,6 +274,11 @@ def main():
     print(
         f"\nTranscript generation complete: {transcript_processed} files processed, {transcript_skipped} files skipped"
     )
+    if transcript_processed > 0:
+        from src.rag.chroma_utils import create_or_update_vectorstore
+
+        create_or_update_vectorstore()
+
     print("\nFull pipeline execution completed successfully!")
 
 

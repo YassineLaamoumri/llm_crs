@@ -9,6 +9,7 @@ sys.path.append(str(ROOT_DIR))
 from src.rag.pydantic_models import QueryInput, QueryAnswer
 from src.rag.langchain_utils import get_rag_chain
 from src.rag.db_utils import insert_application_log, get_chat_history
+from src.audio_processing.transcribe_gemini import main as process_audio
 import os
 import uuid
 import logging
@@ -17,6 +18,17 @@ import uvicorn
 logging.basicConfig(filename="app.log", level=logging.INFO)
 
 app = FastAPI()
+
+
+@app.on_event("startup")
+async def startup_event():
+    logging.info("Starting audio processing script...")
+    try:
+        # Run your audio processing function
+        process_audio()
+        logging.info("Audio processing completed successfully")
+    except Exception as e:
+        logging.error(f"Error running audio processing script: {str(e)}")
 
 
 @app.post("/ask", response_model=QueryAnswer)
