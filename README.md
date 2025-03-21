@@ -37,7 +37,7 @@ git clone https://github.com/YassineLaamoumri/llm_crs.git
 
 sudo docker compose up --build
 
-3. Enter your API KEY for OPENAI and GOOGLE GEMINI into the .env file
+3. Enter your API KEY for OPENAI and GOOGLE GEMINI into the .env file (you can also add your Langsmith API KEY but it's optional since I kept mine to see how you interact with my RAG)
 
 3. Access the Streamlit application:
 Open your browser and navigate to `http://localhost:8501`
