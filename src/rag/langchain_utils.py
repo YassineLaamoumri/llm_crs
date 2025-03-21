@@ -38,7 +38,7 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.messages import HumanMessage, SystemMessage, AIMessage
 from langchain_community.document_loaders import DirectoryLoader, TextLoader
-from langchain_openai import OpenAIEmbeddings
+from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain_chroma import Chroma
 from langchain.chains import create_history_aware_retriever, create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
@@ -90,15 +90,25 @@ qa_prompt = ChatPromptTemplate.from_messages(
 
 
 def get_rag_chain(model="gemini-2.0-flash-thinking-exp-01-21"):
-    llm = ChatGoogleGenerativeAI(
-        model="gemini-2.0-flash-thinking-exp-01-21",
-        temperature=0.7,
-        max_tokens=65000,
-        timeout=None,
-        max_retries=2,
-        top_p=0.9,
-        top_k=64,
-    )
+    if model == "gemini-2.0-flash-thinking-exp-01-21":
+        llm = ChatGoogleGenerativeAI(
+            model="gemini-2.0-flash-thinking-exp-01-21",
+            temperature=0.7,
+            max_tokens=65000,
+            timeout=None,
+            max_retries=2,
+            top_p=0.9,
+            top_k=64,
+        )
+    else:
+        llm = ChatOpenAI(
+            model="gpt-4o-mini",
+            temperature=0.7,
+            max_tokens=16384,
+            timeout=None,
+            max_retries=2,
+        )
+
     history_aware_retriever = create_history_aware_retriever(
         llm,
         retriever,
