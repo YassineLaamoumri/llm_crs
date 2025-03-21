@@ -25,6 +25,7 @@ This project processes audio recordings from customer support calls through the 
 
 - Docker and Docker Compose installed on your system
 - Git for cloning the repository
+- Create OPENAI and GOOGLE GEMINI API KEY
 
 ### Installation
 
@@ -36,9 +37,12 @@ git clone https://github.com/YassineLaamoumri/llm_crs.git
 
 sudo docker compose up --build
 
+3. Enter your API KEY for OPENAI and GOOGLE GEMINI into the .env file
 
 3. Access the Streamlit application:
 Open your browser and navigate to `http://localhost:8501`
+
+
 
 ## Usage
 
