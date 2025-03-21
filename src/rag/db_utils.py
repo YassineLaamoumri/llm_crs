@@ -50,7 +50,7 @@ def get_chat_history(session_id):
     conn = get_db_connexion()
     cursor = conn.cursor()
     cursor.execute(
-        "SELECT user_query, ai_response FROM application_logs WHERE session_id = ? ORDER BY created_at DESC",
+        "SELECT user_query, ai_response FROM application_logs WHERE session_id = ? ORDER BY created_at",
         (session_id,),
     )
     messages = []

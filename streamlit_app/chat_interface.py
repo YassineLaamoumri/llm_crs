@@ -24,7 +24,7 @@ def display_chat_interface():
                 )
                 with st.chat_message("assistant"):
                     st.markdown(response["answer"])
-
+                    print(response)
                     with st.expander("Details"):
                         st.subheader("Generated Answer")
                         st.code(response["answer"])
